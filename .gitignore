@@ -61,6 +61,9 @@ fit-dtb.blob*
 /spl/
 /tpl/
 /defconfig
+mkimage.spl-img.mkimage
+mkimage-out.spl-img.mkimage
+spl-img.map
 
 #
 # Generated include files
